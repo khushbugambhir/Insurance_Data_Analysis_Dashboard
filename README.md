@@ -13,6 +13,7 @@ This project aims to :-
 3)Support data-driven decision-making.
 
 📊 Insights & Analysis :-
+
 1)Travel policies generate the highest premium revenue.
   
 2)Majority of claims are successfully settled.
